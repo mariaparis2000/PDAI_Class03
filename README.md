@@ -2,7 +2,7 @@
 
 ## Contents: 
 
-- 2_streamlit: Scripts for the `streamlit` demos.
+- `2_streamlit`: Scripts for the `streamlit` demos.
 
 ## Cloning the repository
 
