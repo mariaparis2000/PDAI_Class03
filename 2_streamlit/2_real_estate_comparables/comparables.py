@@ -140,6 +140,7 @@ def get_similarities(train, row):
     xn = (x - mu) / sd
 
     return np.sqrt(np.square(data_sd.values - xn.values).sum(axis=1))
+#Formula of the distance of the houses, it's the standard model used in real estate 👆🏻
 
 
 def display_map(comparables, row):
